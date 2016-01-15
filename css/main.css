@@ -1,0 +1,8 @@
+/**********
+ * GLOBAL *
+ **********/
+
+/*Hide angular expressions until angular script loads*/
+.ng-cloak {
+	display: none !important;
+}
